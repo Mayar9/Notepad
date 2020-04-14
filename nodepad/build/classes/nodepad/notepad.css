@@ -1,0 +1,27 @@
+#menubar{
+ -fx-background-color: #b0c4de;
+ -fx-background-color: linear-gradient(#FFF, #D4DBED, #E1E6F6);
+}
+
+
+#menu{
+     /*-fx-text-fill: black;*/
+     -fx-font:14px "sans-serif";
+     -fx-fill:#00ff00;
+}
+
+
+#textpane{
+ -fx-background-insets: 0, 0, 1, 2;
+}
+
+
+#context-menu {
+   
+ -fx-background-color: #F1F1F1;
+ -fx-border-color: black;
+ -fx-border-width: 0.5;
+ -fx-text-fill: #000000;
+ -fx-font:13px "monospace";
+ -fx-font-color: black;
+}
